@@ -3,7 +3,6 @@
 ## About Me
 
 I'm currently a Computer Science student with a passion for diving deep into the realms of Deep Learning and Artificial Intelligence. 
-I believe in the power of technology to transform and elevate our lives, and I'm on a journey to contribute to this transformation.
 
 ## Interests
 
